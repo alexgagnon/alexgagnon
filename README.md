@@ -1,3 +1,4 @@
-Hi, I’m @alexgagnon
-I’m interested in full-stack web dev with JS/TS, Java, Rust, HTML, and CSS, and a dash of ML/NLP with Python and mobile apps with Dart on the side...
-I also focus on Azure cloud services with Terraform for IaC, and Github and Azure DevOps for SCM and CI/CD.
+- Hi, I’m @alexgagnon
+- I’m interested in full-stack web dev with JS/TS, Java, Rust, HTML, and CSS, and a dash of ML/NLP with Python and mobile apps with Dart on the side...
+- I primarily use Netlify for sites and and Azure with Terraform for everything else.
+- Github and Azure DevOps are my goto's for SCM and CI/CD.
