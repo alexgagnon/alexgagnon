@@ -1,6 +1,6 @@
 - Hi, I’m @alexgagnon
-- I’m interested in full-stack web dev with JS/TS, Java, Rust, HTML, and CSS, and a dash of ML/NLP with Python and mobile apps with Flutter on the side...
+- I’m interested in full-stack web dev with TS (mostly Lit and Astro for frontend, Express for backend, PostgreSQL for DB), Java & Spring, a dash of AI with Python (🤗 and PyTorch), and Rust.
 - I like testing my JS with with Jest and sites with Playwright, Axe, and Lighthouse
-- I primarily use Cloudfare and Netlify for hosting and and Azure for other cloud needs
+- I use Cloudfare for hosting and and Azure for other cloud needs
 - GitHub and Azure DevOps are my goto's for SCM and CI/CD.
 - When I'm not making software I'm making beer, houses, and travel plans.
