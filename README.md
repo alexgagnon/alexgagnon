@@ -1,6 +1,6 @@
 - Hi, I’m @alexgagnon
-- I’m interested in full-stack web dev with TS (mostly Lit and Astro for frontend, Express for backend, PostgreSQL for DB), Java & Spring, a dash of AI with Python (🤗 and PyTorch), and Rust.
-- My prefered JS tools are Vite, Vitest, and Playwright.
-- I use Cloudfare and Netlify for website hosting and Azure for other cloud needs.
+- I’m interested in full-stack web dev with TS (mostly Lit and Astro for frontend, Hono/Express for backend, PostgreSQL for DB), Java & Spring, a dash of AI with Python, and Rust.
+- My preferred JS tools are Vite+ and Playwright.
+- I use CloudFlare for website hosting, Supabase for BaaS, and Azure for other cloud needs.
 - GitHub and Azure DevOps are my goto's for SCM and CI/CD.
 - When I'm not making software I'm making beer, houses, and travel plans.
